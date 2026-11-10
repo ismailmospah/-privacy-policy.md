@@ -18,6 +18,7 @@
 - صورة البروفايل
 - صور وبيانات السكن اللي بترفعها على التطبيق
 - بيانات المستأجرين اللي بتسجّلها عشان تدير سكنك (الاسم، رقم التليفون، والإيجارات المدفوعة والمتأخرة)
+- بيانات استلام الفلوس اللي بتكتبها عشان المستأجرين يحوّلولك الإيجار (اسم المستلم ومعرّف إنستا باي أو رقم محفظة فودافون كاش). التطبيق مش بيطلب ولا بيخزّن أرقام كروت بنكية.
 
 لو سجّلت دخول بحساب جوجل، بنستلم من جوجل اسمك وبريدك الإلكتروني وصورة حسابك.
 
@@ -111,6 +112,7 @@ By using the app, you agree to the collection and use of data as described here.
 - Profile photo
 - Photos and details of the housing you upload to the app
 - Details of the tenants you record to manage your housing (name, phone number, and paid and overdue rent)
+- The payout details you enter so tenants can transfer rent to you (recipient name and InstaPay ID or Vodafone Cash wallet number). The app does not ask for or store bank card numbers.
 
 If you sign in with Google, we receive your name, email address and account photo from Google.
 
